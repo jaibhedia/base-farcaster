@@ -1,4 +1,4 @@
-import type { BattleState, CharacterStats, CharacterType } from '@/types/game';
+import type { BattleState, CharacterStats, CharacterType, GuardType, MoveState } from '@/types/game';
 import { TYPE_EFFECTIVENESS } from '@/types/game';
 
 /**
